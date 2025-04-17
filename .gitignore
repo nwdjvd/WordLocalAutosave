@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local development settings
+.env
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.log.*
+
+# Backup files
+*.bak
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# macOS specific
+.DS_Store
+
+# Autosave application specific
+autosave.log* 

@@ -1,0 +1,9 @@
+{
+    "debounce_seconds": 10,
+    "polling_interval": 15,
+    "reconnect_threshold": 20,
+    "main_loop_sleep": 0.5,
+    "log_max_size": 5242880,
+    "log_backup_count": 3,
+    "log_directory": ""
+} 

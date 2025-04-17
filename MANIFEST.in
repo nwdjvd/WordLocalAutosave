@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+include CONTRIBUTING.md
+include requirements.txt
+include autosave_config.json
+include test_word_connection.py 
