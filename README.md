@@ -1,6 +1,6 @@
 # Word Local Autosave
 
-![Python Application](https://github.com/yourusername/word-local-autosave/workflows/Python%20Application/badge.svg)
+![Python Application](https://github.com/nwdjvd/WordLocalAutosave/workflows/Python%20Application/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
@@ -30,8 +30,8 @@ A robust offline autosave utility for Microsoft Word that works similarly to One
 
 1. **Clone or download this repository**:
    ```
-   git clone https://github.com/yourusername/word-local-autosave.git
-   cd word-local-autosave
+   git clone https://github.com/nwdjvd/WordLocalAutosave.git
+   cd WordLocalAutosave
    ```
 
 2. **Install dependencies**:

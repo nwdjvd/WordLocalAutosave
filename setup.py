@@ -11,7 +11,7 @@ setup(
     description="A local autosave utility for Microsoft Word documents",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/word-local-autosave",
+    url="https://github.com/nwdjvd/WordLocalAutosave",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
