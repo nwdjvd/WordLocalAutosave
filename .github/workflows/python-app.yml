@@ -33,7 +33,7 @@ jobs:
         pip install build
         python -m build
     - name: Create Artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: dist-artifacts
         path: dist/ 
